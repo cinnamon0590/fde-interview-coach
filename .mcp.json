@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "interview-guides": {
+      "type": "stdio",
+      "command": "/Users/susanwellington/fde-interview-coach/my-coach/.venv/bin/python",
+      "args": ["/Users/susanwellington/fde-interview-coach/my-coach/mcp/server.py"],
+      "env": {}
+    }
+  }
+}
